@@ -1,5 +1,10 @@
 # ChangeLog
 
+#### 4.2.7
+
+- fix: edges disappear when collapsing combo, closes: #2816;
+- fix: drag-node with edge key, closes: #2819;
+
 #### 4.2.6
 
 - feat: scroll-canvas behavior;
